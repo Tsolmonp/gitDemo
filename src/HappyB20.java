@@ -7,5 +7,7 @@ public class HappyB20 {
         // a brand new line is added
         
         //I want to see this change from Intellij
+        
+        //new command
     }
 }
